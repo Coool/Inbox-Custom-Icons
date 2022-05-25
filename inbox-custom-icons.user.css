@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           inbox.lv (mail.lv) Custom Icons
 @namespace      Inbox-Custom-Icons
-@version        0.0.2
+@version        0.0.3
 @description    inbox.lv (mail.lv) Custom Icons
 @homepageURL    https://github.com/Coool/Inbox-Custom-Icons
 @updateURL      https://raw.githubusercontent.com/Coool/Inbox-Custom-Icons/master/inbox-custom-icons.user.css
@@ -50,6 +50,13 @@
     }
     li a[title*="Linus Tech Tips"] svg.inx-fa-icon {
         background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' width='1.642em' height='1.642em'%3E%3Cpath fill='%23fe4d00' d='M507.463 208.242c-4.2 -22.164 -11.203 -43.346 -20.736 -63.104 -10.081 -20.898 -22.972 -40.181 -38.094 -57.463 -17.213 -19.676 -37.335 -36.742 -59.762 -50.418C350.114 13.628 304.619 0 256 0c-35.319 0 -68.989 7.191 -99.627 20.183 -24.293 10.3 -46.635 24.299 -66.418 41.206C34.961 108.38 0 178.165 0 256s34.962 147.627 89.956 194.603c9.785 8.363 20.187 16.006 31.158 22.838 39.198 24.402 85.413 38.552 134.888 38.552 35.321 0 68.992 -7.191 99.628 -20.184 24.292 -10.301 46.635 -24.299 66.418 -41.206 54.993 -46.99 89.956 -116.773 89.956 -194.603 0 -16.324 -1.601 -32.276 -4.537 -47.758zM89.956 418.631C48.886 376.707 23.535 319.327 23.535 256S48.886 135.296 89.956 93.369v325.262zm265.671 -161.052v208.498c-30.199 14.35 -63.972 22.401 -99.628 22.401 -37.626 0 -73.134 -8.994 -104.577 -24.866l187.605 -60.958v-69.835l-182.656 59.349V45.941c30.198 -14.347 63.969 -22.4 99.627 -22.4 36.698 0 71.391 8.533 102.254 23.676l-185.273 60.203v69.835l49.81 -16.188v192.057l66.418 -21.586V139.493l132.836 -43.159 2.148 -0.697c15.993 16.768 29.508 35.905 39.95 56.889l-158.322 51.436v69.838zm66.418 161.052V235.989l62.845 -20.417c2.304 13.137 3.575 26.63 3.575 40.425 0 63.326 -25.351 120.705 -66.421 162.631z'/%3E%3C/svg%3E");
+    }
+
+    li a[title*="Win-Raid"] svg.inx-fa-icon path {
+        display: none;
+    }
+    li a[title*="Win-Raid"] svg.inx-fa-icon {
+        background-image: url("data:image/svg+xml,%3Csvg xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' xml:space='preserve' viewBox='0 0 512 512' width='1.642em' height='1.642em'%3E%3Cdefs%3E%3ClinearGradient id='a'%3E%3Cstop style='stop-color:%23050709;stop-opacity:1' offset='0'/%3E%3Cstop style='stop-color:%230e384b;stop-opacity:1' offset='1'/%3E%3C/linearGradient%3E%3ClinearGradient xlink:href='%23a' id='b' x1='0' y1='256' x2='512' y2='256' gradientUnits='userSpaceOnUse' spreadMethod='pad'/%3E%3Cfilter style='color-interpolation-filters:sRGB' id='c' x='0' y='0' width='1' height='1'%3E%3CfeGaussianBlur stdDeviation='.33'/%3E%3C/filter%3E%3C/defs%3E%3Cpath style='display:inline;fill:url(%23b);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke' d='M0 0h512v512H0Z'/%3E%3Cg style='display:inline;fill:%23fff;stroke:%23000;stroke-width:16;stroke-linejoin:round;paint-order:markers fill stroke;filter:url(%23c)'%3E%3Cpath d='M192.435 220.994q1.325 6.294 3.975 15.569 2.65 9.275 5.632 20.538 3.312 11.263 6.956 24.183 3.975 12.919 7.62 26.5 0-17.225-.332-36.77-.331-19.875-.662-40.414-.332-20.538-.663-41.408-.331-21.2-.331-40.745h37.764q-.994 25.176-1.988 52.008-.994 26.501-2.319 53.002-1.325 26.17-3.312 51.678-1.657 25.507-3.975 48.364h-33.79q-7.287-20.87-14.575-44.72-7.288-24.183-14.576-46.046-7.287 20.87-15.238 45.383-7.95 24.513-14.575 45.383h-33.79q-2.65-22.857-4.637-48.364-1.988-25.839-3.644-52.009-1.325-26.501-2.319-53.002-.993-26.833-1.656-51.677h37.764q-.331 19.544-.662 40.414l-.663 41.74q-.331 20.538-.662 40.413-.332 19.545-.332 36.77 2.982-10.6 6.626-23.188 3.975-12.588 7.287-24.845 3.644-12.256 6.626-22.526 2.981-10.269 4.637-16.231zm138.468-74.866q17.557 0 31.801 3.975 14.245 3.975 24.514 12.257 10.269 8.281 15.57 21.2 5.63 12.589 5.63 29.814 0 17.889-7.287 32.464-7.288 14.576-24.182 22.195 5.631 8.613 11.925 19.213 6.294 10.27 12.257 21.864 5.963 11.263 11.263 22.857 5.631 11.263 9.606 21.532h-42.733q-7.619-19.876-17.888-38.095-9.938-18.551-21.532-37.433h-21.201v75.528h-40.745V151.43q5.962-1.326 12.919-2.32 7.288-1.325 14.575-1.656 7.288-.663 13.914-.994 6.625-.331 11.594-.331zm36.108 66.915q0-16.232-9.938-23.85-9.938-7.62-26.17-7.62-2.319 0-5.632.331-3.312 0-6.625.663v61.615h8.944q20.87 0 30.145-7.95 9.276-8.282 9.276-23.189z' style='font-size:331.264px;stroke-width:1.2323' aria-label='WR'/%3E%3C/g%3E%3C/svg%3E");
     }
     
 
