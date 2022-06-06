@@ -1,3 +1,8 @@
+# README.md
+- en [English](README.md)
+- lv_LV [Latvian](README.lv.md)
+
+
 ## Installation
 A userstyle extension is required, common ones include:
 
