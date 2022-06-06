@@ -1,3 +1,7 @@
+# README.md (Izlasi mani)
+- en [Angliski](README.md)
+- lv_LV [Latviski](README.lv.md)
+
 ## Uzstādīšana
 Nepieciešams lietotāja stila paplašinājums, un izplatītākie ir šādi:
 
