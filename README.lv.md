@@ -6,7 +6,7 @@
 Nepieciešams lietotāja stila paplašinājums, un izplatītākie ir šādi:
 
 🎨 Stylus priekš [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) vai [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/).<br>
-🎨 xStyle priekš [Firefox](https://addons.mozilla.org/firefox/addon/xstyle/) or [Chrome](https://chrome.google.com/webstore/detail/xstyle/hncgkmhphmncjohllpoleelnibpmccpj).
+🎨 xStyle priekš [Firefox](https://addons.mozilla.org/firefox/addon/xstyle/) vai [Chrome](https://chrome.google.com/webstore/detail/xstyle/hncgkmhphmncjohllpoleelnibpmccpj).
 
 Kad uzstādīts lietotāja stila paplašinājums, spiežam uz "Install directly with Stylus" attēla:
 
