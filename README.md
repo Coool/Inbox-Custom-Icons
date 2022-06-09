@@ -13,3 +13,6 @@ Then:
 
 [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-285959.svg)](https://github.com/Coool/Inbox-Custom-Icons/raw/master/inbox-custom-icons.user.css)
 >It supports automatic updates.
+
+#### Notes
+Icons will show up based on folder names. inbox.lv, inbox.eu, inbox.lt, inbox.la or mail.ee icon (logo) will replace default icon if folder name is Inbox and etc.
